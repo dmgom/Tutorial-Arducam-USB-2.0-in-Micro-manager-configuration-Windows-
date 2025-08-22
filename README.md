@@ -8,8 +8,10 @@ You have several options to control the camara, in this tutorial AMCap will be u
 <img width="950" height="328" alt="image" src="https://github.com/user-attachments/assets/f27fb253-0d86-4d58-b423-397775d83a17" />
 
 3. You can download AMCap in this link: https://www.arducam.com/downloads/app/AMCap.exe. Once it is downloaded open the .exe file.
-4. 
+<img width="141" height="146" alt="image" src="https://github.com/user-attachments/assets/d1401f60-c77e-4b21-8973-7d6c96d7cd2d" />
+
 5. 
+6. 
 ## Micro-Manager installation
 1. It is neccesary to download Version 2.0 from Micro-Manager web, it is strongly recommended to use a Nightly Build version: https://download.micro-manager.org/nightly/2.0/Windows/. Once it is downloaded, open the .exe file and do the installation tutorial. Note: if you have not ImageJ downloaded it can be installed in the tutorial.
 <img src="Images/fileexe.png" width="300">
