@@ -54,7 +54,7 @@ You have several options to control the camara, in this tutorial AMCap will be u
 <img width="500" height="857" alt="image" src="https://github.com/user-attachments/assets/ea2aad08-5e0b-4582-af2b-842355c5961a" />
 
 16. The next window will appear empty, just press 'Next'.
-<img width="500" height="850" alt="image" src="https://github.com/user-attachments/assets/da79b3d9-6dc1-418e-8768-8b1fbb691ad8" />
+<img width="500" height="850" alt="image" src="https://github.com/user-attachments/assets/a792e096-2463-4d89-836a-a74e507a79d9" />
 
 17. This window will also be empty, just press 'Next'.
 <img width="500" height="850" alt="image" src="https://github.com/user-attachments/assets/f2f52bd3-da97-4e65-a2d0-fcca6db50ad2" />
