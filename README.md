@@ -7,7 +7,7 @@ You have several options to control the camara, in this tutorial AMCap will be u
 
 <img width="950" height="328" alt="image" src="https://github.com/user-attachments/assets/f27fb253-0d86-4d58-b423-397775d83a17" />
 
-2. You can download AMCap in this link: https://www.arducam.com/downloads/app/AMCap.exe. Once it is downloaded open the .exe file.
+2. You can download AMCap in this link: https://www.arducam.com/downloads/app/AMCap.exe. Once it is downloaded please open the .exe file.
 <img width="141" height="146" alt="image" src="https://github.com/user-attachments/assets/d1401f60-c77e-4b21-8973-7d6c96d7cd2d" />
 
 3. Once the app is opened, select the option 'Devices' and click in 'Arducam USB Camera'.
