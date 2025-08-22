@@ -5,14 +5,13 @@ Step by step to set up an Arducam with module USB 2.0 (UVC) in Micro-manager.
 1. Connect the Arducam in the computer.
 You have several options to control the camara, in this tutorial AMCap will be used, the idea is to disable automatic options and prevent bugs when Micro-Manager is being used. Also, it is highly recommended to visit Arducam page to understand the camera options, as well as to see the datasheet: https://docs.arducam.com/UVC-Camera/Appilcation-Note/Software-Instruction/UVC-Software-Instructions/
 
-<img width="950" height="328" alt="image" src="https://github.com/user-attachments/assets/f27fb253-0d86-4d58-b423-397775d83a17" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/f27fb253-0d86-4d58-b423-397775d83a17" />
 
 2. You can download AMCap in this link: https://www.arducam.com/downloads/app/AMCap.exe. Once it is downloaded please open the .exe file.
-<img width="100" alt="image" src="https://github.com/user-attachments/assets/d1401f60-c77e-4b21-8973-7d6c96d7cd2d" />
 <img width="155" height="30" alt="image" src="https://github.com/user-attachments/assets/9e62275b-fb89-4949-8dd9-2518c9134e87" />
 
 3. Once the app is opened, select the option 'Devices' and click in 'Arducam USB Camera'.
-<img width="1912" height="1007" alt="image" src="https://github.com/user-attachments/assets/fe72891a-dead-417f-a848-93d90b58564d" />
+<img width="1500" alt="image" src="https://github.com/user-attachments/assets/fe72891a-dead-417f-a848-93d90b58564d" />
 
 4. Now, press 'Options' and select 'Video Capture Filter'
 <img width="1912" height="1002" alt="image" src="https://github.com/user-attachments/assets/ab479076-88dc-4895-82c8-edc60f869473" />
