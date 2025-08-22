@@ -18,7 +18,7 @@ You have several options to control the camara, in this tutorial AMCap will be u
 
 5. In 'Video Proc Amp' uncheck 'White balance', and in 'Camera Control' uncheck exposure and 'Low Light compensation', click 'Apply' and then 'OK'
 <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/24ca3242-327e-4674-9689-37ca6dd99268" />
-<img width="298" height="250" alt="image" src="https://github.com/user-attachments/assets/1a0cf04c-974d-40f4-9b4f-4bb77fa0f1d8" />
+<img width="294" height="250" alt="image" src="https://github.com/user-attachments/assets/1a0cf04c-974d-40f4-9b4f-4bb77fa0f1d8" />
 
 ## Micro-Manager installation
 6. It is neccesary to download Version 2.0 from Micro-Manager web, it is strongly recommended to use a Nightly Build version: https://download.micro-manager.org/nightly/2.0/Windows/. Once it is downloaded, open the .exe file and do the installation tutorial. Note: if you have not ImageJ downloaded it can be installed in the tutorial.
