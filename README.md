@@ -2,7 +2,7 @@
 Step by step to set up an Arducam with module USB 2.0 (UVC) in Micro-manager.
 ## Motivation
 
-This tutorial was created during the developing of DiDeP (Dispositivo de Detección de Patógenos Tropicales), thus, it was discovered an evident lack of information for setting up an Arducam in Micro-Manager software appropiately, hence, our work team thought it will be helpful to share our findings about software configuration with other researchers.
+This tutorial was created during the developing of DiDeP (Dispositivo de Detección de Patógenos Tropicales), thus, it was discovered an evident lack of information for setting up an Arducam in Micro-Manager software appropiately, hence, our work team thought it would be helpful to share our findings about software configuration with other researchers.
 
 Author of the tutorial is Diego Gomez, dm.gomeza1@uniandes.edu.co, under supervision of the professors Manu Forero, an.forero@uniandes.edu.co, and Chad Leidy, cleidy@uniandes.edu.co, Universidad de los Andes.
 
