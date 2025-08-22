@@ -31,7 +31,7 @@ Author of the tutorial is Diego Gomez, dm.gomeza1@uniandes.edu.co, under supervi
 <img src="Images/fileexe.png" width="300">
 
 ## Micro-Manager Configuration
-7. Once it is installed restart the PC and open Micro-Manager. It should appear in first instance ImageJ and in a few seconds Micro/Manager starting like this:
+7. Once Micro-Manager is installed restart the computer and open Micro-Manager. In first instance, it should appear ImageJ and in a few seconds Micro-Manager starting like this:
 <img src="Images/startingmicrom.png" width="400">
 8. Only click in Hardware Configuration File to choose '(none)' and select 'OK'.
 
