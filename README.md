@@ -3,7 +3,7 @@ Step by step to set up an Arducam with module USB 2.0 (UVC) in Micro-manager.
 
 ## Camera Set up with AMCap
 1. Connect the Arducam in the computer.
-You have several options to control the camara, in this tutorial AMCap will be used, the idea is to disable automatic options and prevent bugs when Micro-Manager is being used. Also, it is highly recommended to visit Arducam page to understand the camera options, as well as to see the datasheet: https://docs.arducam.com/UVC-Camera/Appilcation-Note/Software-Instruction/UVC-Software-Instructions/
+You have several options to control the camara, in this tutorial AMCap will be used, the idea is to disable automatic options and prevent bugs when Micro-Manager is being used. Also, it is highly recommended to visit Arducam page to understand the camera options, as well as to see the datasheet: https://docs.arducam.com/UVC-Camera/Appilcation-Note/Software-Instruction/UVC-Software-Instructions/. Please, check the SDK of the camera model to comprehense better adjusts in camera.
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/f27fb253-0d86-4d58-b423-397775d83a17" />
 
@@ -70,7 +70,9 @@ You have several options to control the camara, in this tutorial AMCap will be u
 Now, the image after press 'Auto Once'.
   <img width="900" height="737" alt="image" src="https://github.com/user-attachments/assets/ce9081ab-d4e9-47ee-b0a6-e44e861e67d3" />
   
-# NOTE: Exposure parameters in Micro-Manager must be the same as AMCap, those are -13 to -1 whose ms are in the following table. In other case, it will lead bugs in Micro-Manager.
+# NOTE:
+Exposure parameters in Micro-Manager must be the same as AMCap, those are -13 to 0, whose respectively ms are in the following table. In other case, it will lead bugs in Micro-Manager. Also, lag in live is proportional to greater exposure times.
+
 <img width="500" height="709" alt="image" src="https://github.com/user-attachments/assets/61cbeeed-6cc8-4fa0-8e22-7b455cbd5a0e" />
 
 Table extracted from: https://docs.arducam.com/UVC-Camera/Appilcation-Note/Software-Instruction/UVC-Software-Instructions/
