@@ -3,9 +3,13 @@ Step by step to set up an Arducam with module USB 2.0 (UVC) in Micro-manager
 
 ## Camera Set up
 1. Connect the Arducam in the computer.
-You have several options to control the camara, in this tutorial AMCap will be used, the idea is to disable automatic options and prevent bugs when Micro-Manager is being used.
-2. Download AMCap and open the .exe file
-3. 
+You have several options to control the camara, in this tutorial AMCap will be used, the idea is to disable automatic options and prevent bugs when Micro-Manager is being used. Also, it is highly recommended to visit Arducam page to understand the camera options: https://docs.arducam.com/UVC-Camera/Appilcation-Note/Software-Instruction/UVC-Software-Instructions/
+
+<img width="950" height="328" alt="image" src="https://github.com/user-attachments/assets/f27fb253-0d86-4d58-b423-397775d83a17" />
+
+3. You can download AMCap in this link: https://www.arducam.com/downloads/app/AMCap.exe, and open the .exe file
+4. 
+5. 
 ## Micro-Manager installation
 1. It is neccesary to download Version 2.0 from Micro-Manager web, it is strongly recommended to use a Nightly Build version: https://download.micro-manager.org/nightly/2.0/Windows/. Once it is downloaded, open the .exe file and do the installation tutorial. Note: if you have not ImageJ downloaded it can be installed in the tutorial.
 <img src="Images/fileexe.png" width="300">
