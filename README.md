@@ -18,7 +18,7 @@ You have several options to control the camara, in this tutorial AMCap will be u
 
 5. In 'Video Proc Amp' uncheck 'White balance', and in 'Camera Control' uncheck exposure and 'Low Light compensation', click 'Apply' and then 'OK'
 <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/24ca3242-327e-4674-9689-37ca6dd99268" />
-<img width="294" height="250" alt="image" src="https://github.com/user-attachments/assets/1a0cf04c-974d-40f4-9b4f-4bb77fa0f1d8" />
+<img width="295" height="250" alt="image" src="https://github.com/user-attachments/assets/1a0cf04c-974d-40f4-9b4f-4bb77fa0f1d8" />
 
 ## Micro-Manager installation
 6. It is neccesary to download Version 2.0 from Micro-Manager web, it is strongly recommended to use a Nightly Build version: https://download.micro-manager.org/nightly/2.0/Windows/. Once it is downloaded, open the .exe file and do the installation tutorial. Note: if you have not ImageJ downloaded it can be installed in the tutorial.
@@ -32,17 +32,17 @@ You have several options to control the camara, in this tutorial AMCap will be u
 <img src="Images/choosenone.png" width="400">
 
 9. It should appear the following window:
-<img width="777" height="311" alt="image" src="https://github.com/user-attachments/assets/931bd94e-2936-4378-ac28-38152f41ac7f" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/931bd94e-2936-4378-ac28-38152f41ac7f" />
 
 10. Press the option 'Devices' and select 'Harward configuration wizard'.
 
-<img width="782" height="331" alt="image" src="https://github.com/user-attachments/assets/f37afe57-57ff-4b61-99c5-f9afed4e73a8" />
+<img width="500" height="331" alt="image" src="https://github.com/user-attachments/assets/f37afe57-57ff-4b61-99c5-f9afed4e73a8" />
 
 11. Select 'Create a new configuration' and 'Next'.
-<img width="876" height="851" alt="image" src="https://github.com/user-attachments/assets/276125d6-3407-4496-b455-7ae84cd292d2" />
+<img width="500" height="851" alt="image" src="https://github.com/user-attachments/assets/276125d6-3407-4496-b455-7ae84cd292d2" />
 
 12. Now look for 'OpenCVGrabber' in the 'List by module' and click in 'OpenCVGrabber: OpenCVGrabber video input', next press 'add'.
-<img width="880" height="860" alt="image" src="https://github.com/user-attachments/assets/c24d2eef-657d-40fc-b160-78f711ff6e00" />
+<img width="500" height="860" alt="image" src="https://github.com/user-attachments/assets/c24d2eef-657d-40fc-b160-78f711ff6e00" />
 
 13. Another window will appear, now press below 'Value', choose 'Arducam USB Camera' and then click 'OK'.
 <img width="562" height="345" alt="image" src="https://github.com/user-attachments/assets/f7d0fc0b-5712-4310-90d1-6caf647ba237" />
