@@ -68,9 +68,11 @@ You have several options to control the camara, in this tutorial AMCap will be u
 <img width="500" height="317" alt="image" src="https://github.com/user-attachments/assets/0d14e34e-811e-463f-9483-4403b852a219" />
 
 20. If the image seems overexposed, you can try 'Auto Once' in 'Inspect Preview'. This adjust automatically White balance.
+
   <img width="810" height="737" alt="image" src="https://github.com/user-attachments/assets/7a7b5337-1a0c-4708-9902-f4e1bd267030" />
   
 Now, it can be seen the image after press 'Auto Once'.
+
   <img width="810" height="737" alt="image" src="https://github.com/user-attachments/assets/ce9081ab-d4e9-47ee-b0a6-e44e861e67d3" />
   
 # NOTE:
