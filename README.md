@@ -45,33 +45,33 @@ You have several options to control the camara, in this tutorial AMCap will be u
 <img width="500" height="860" alt="image" src="https://github.com/user-attachments/assets/c24d2eef-657d-40fc-b160-78f711ff6e00" />
 
 13. Another window will appear, now press below 'Value', choose 'Arducam USB Camera' and then click 'OK'.
-<img width="562" height="345" alt="image" src="https://github.com/user-attachments/assets/f7d0fc0b-5712-4310-90d1-6caf647ba237" />
+<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/f7d0fc0b-5712-4310-90d1-6caf647ba237" />
 
 14. Now, it will appear in the upper table the category 'OpenCVGrabber:...'. Therefore, press 'Next'.
-<img width="872" height="850" alt="image" src="https://github.com/user-attachments/assets/93dc2af0-8619-4c83-b7da-e378ce5d006d" />
+<img width="500" height="850" alt="image" src="https://github.com/user-attachments/assets/93dc2af0-8619-4c83-b7da-e378ce5d006d" />
 
 15. In the following window uncheck 'Use Autoshutter By Default' and press 'Next'.
-<img width="873" height="857" alt="image" src="https://github.com/user-attachments/assets/ea2aad08-5e0b-4582-af2b-842355c5961a" />
+<img width="500" height="857" alt="image" src="https://github.com/user-attachments/assets/ea2aad08-5e0b-4582-af2b-842355c5961a" />
 
 16. The next window will appear empty, just press 'Next'.
-<img width="873" height="850" alt="image" src="https://github.com/user-attachments/assets/da79b3d9-6dc1-418e-8768-8b1fbb691ad8" />
+<img width="500" height="850" alt="image" src="https://github.com/user-attachments/assets/da79b3d9-6dc1-418e-8768-8b1fbb691ad8" />
 
 17. This window will also be empty, just press 'Next'.
-<img width="873" height="850" alt="image" src="https://github.com/user-attachments/assets/f2f52bd3-da97-4e65-a2d0-fcca6db50ad2" />
+<img width="500" height="850" alt="image" src="https://github.com/user-attachments/assets/f2f52bd3-da97-4e65-a2d0-fcca6db50ad2" />
 
 18. Now, choose where do you want to save the configuration file for later use, fill the file name, press 'Save' and therefore press 'Finish'
-<img width="875" height="856" alt="image" src="https://github.com/user-attachments/assets/8734f380-fb2c-4d02-95e9-f98c67da66a5" />
+<img width="500" height="856" alt="image" src="https://github.com/user-attachments/assets/8734f380-fb2c-4d02-95e9-f98c67da66a5" />
 
 19. Then, configuration was made and the main window will appear, now you can use live or snap to see the camera capturing.
-<img width="775" height="317" alt="image" src="https://github.com/user-attachments/assets/0d14e34e-811e-463f-9483-4403b852a219" />
+<img width="500" height="317" alt="image" src="https://github.com/user-attachments/assets/0d14e34e-811e-463f-9483-4403b852a219" />
 
 20. If the image seems overexposed, you can try 'Auto Once' in 'Inspect Preview'. This adjust automatically White balance.
-  <img width="1317" height="737" alt="image" src="https://github.com/user-attachments/assets/7a7b5337-1a0c-4708-9902-f4e1bd267030" />
+  <img width="900" height="737" alt="image" src="https://github.com/user-attachments/assets/7a7b5337-1a0c-4708-9902-f4e1bd267030" />
 Now, the image after press 'Auto Once'.
-  <img width="1318" height="737" alt="image" src="https://github.com/user-attachments/assets/ce9081ab-d4e9-47ee-b0a6-e44e861e67d3" />
+  <img width="900" height="737" alt="image" src="https://github.com/user-attachments/assets/ce9081ab-d4e9-47ee-b0a6-e44e861e67d3" />
   
 # NOTE: Exposure parameters in Micro-Manager must be the same as AMCap, those are -13 to -1 whose ms are in the following table. In other case, it would leads bugs in Micro-Manager.
-<img width="975" height="709" alt="image" src="https://github.com/user-attachments/assets/61cbeeed-6cc8-4fa0-8e22-7b455cbd5a0e" />
+<img width="500" height="709" alt="image" src="https://github.com/user-attachments/assets/61cbeeed-6cc8-4fa0-8e22-7b455cbd5a0e" />
 
 Table extracted from: https://docs.arducam.com/UVC-Camera/Appilcation-Note/Software-Instruction/UVC-Software-Instructions/
 
