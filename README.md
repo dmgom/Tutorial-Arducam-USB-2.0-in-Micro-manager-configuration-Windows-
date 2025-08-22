@@ -67,6 +67,11 @@ You have several options to control the camara, in this tutorial AMCap will be u
 
 20. If the image seems overexposed, you can try 'Auto Once' in 'Inspect Preview'. This adjust automatically White balance.
   <img width="1317" height="737" alt="image" src="https://github.com/user-attachments/assets/7a7b5337-1a0c-4708-9902-f4e1bd267030" />
-Now, the image after press 'Auto Once'
+Now, the image after press 'Auto Once'.
   <img width="1318" height="737" alt="image" src="https://github.com/user-attachments/assets/ce9081ab-d4e9-47ee-b0a6-e44e861e67d3" />
+  
+# NOTE: Exposure parameters in Micro-Manager must be the same as AMCap, those are -13 to -1 whose ms are in the following table. In other case, it would leads bugs in Micro-Manager.
+<img width="975" height="709" alt="image" src="https://github.com/user-attachments/assets/61cbeeed-6cc8-4fa0-8e22-7b455cbd5a0e" />
+
+Table extracted from: https://docs.arducam.com/UVC-Camera/Appilcation-Note/Software-Instruction/UVC-Software-Instructions/
 
