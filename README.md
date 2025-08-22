@@ -6,4 +6,4 @@ Step by step to set up an Arducam with module USB 2.0 in Micro-manager
 
 ## Micro-
 
-<img src="docs/source/pycromanager_banner.png" width="600">
+<img src="Images/fileexe.png" width="600">
