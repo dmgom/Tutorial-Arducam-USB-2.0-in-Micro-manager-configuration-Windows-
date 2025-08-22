@@ -45,7 +45,7 @@ You have several options to control the camara, in this tutorial AMCap will be u
 <img width="500" height="860" alt="image" src="https://github.com/user-attachments/assets/c24d2eef-657d-40fc-b160-78f711ff6e00" />
 
 13. Another window will appear, now press below 'Value', choose 'Arducam USB Camera' and then click 'OK'.
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/f7d0fc0b-5712-4310-90d1-6caf647ba237" />
+<img width="420" height="345" alt="image" src="https://github.com/user-attachments/assets/f7d0fc0b-5712-4310-90d1-6caf647ba237" />
 
 14. Now, it will appear in the upper table the category 'OpenCVGrabber:...'. Therefore, press 'Next'.
 <img width="500" height="850" alt="image" src="https://github.com/user-attachments/assets/93dc2af0-8619-4c83-b7da-e378ce5d006d" />
