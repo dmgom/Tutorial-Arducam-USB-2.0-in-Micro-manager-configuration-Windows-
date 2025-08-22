@@ -18,7 +18,7 @@ You have several options to control the camara, in this tutorial AMCap will be u
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/ab479076-88dc-4895-82c8-edc60f869473" />
 
-6. In 'Video Proc Amp' uncheck 'White balance', and in 'Camera Control' uncheck exposure and 'Low Light compensation', click 'Apply' and then 'OK'
+5. In 'Video Proc Amp' uncheck 'White balance', and in 'Camera Control' uncheck exposure and 'Low Light compensation', click 'Apply' and then 'OK'
 <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/24ca3242-327e-4674-9689-37ca6dd99268" />
 <img width="295" height="250" alt="image" src="https://github.com/user-attachments/assets/1a0cf04c-974d-40f4-9b4f-4bb77fa0f1d8" />
 
@@ -68,9 +68,9 @@ You have several options to control the camara, in this tutorial AMCap will be u
 <img width="500" height="317" alt="image" src="https://github.com/user-attachments/assets/0d14e34e-811e-463f-9483-4403b852a219" />
 
 20. If the image seems overexposed, you can try 'Auto Once' in 'Inspect Preview'. This adjust automatically White balance.
-  <img width="900" height="737" alt="image" src="https://github.com/user-attachments/assets/7a7b5337-1a0c-4708-9902-f4e1bd267030" />
+  <img width="810" height="737" alt="image" src="https://github.com/user-attachments/assets/7a7b5337-1a0c-4708-9902-f4e1bd267030" />
 Now, the image after press 'Auto Once'.
-  <img width="900" height="737" alt="image" src="https://github.com/user-attachments/assets/ce9081ab-d4e9-47ee-b0a6-e44e861e67d3" />
+  <img width="810" height="737" alt="image" src="https://github.com/user-attachments/assets/ce9081ab-d4e9-47ee-b0a6-e44e861e67d3" />
   
 # NOTE:
 Exposure parameters in Micro-Manager must be the same as AMCap, those are -13 to 0, whose respectively ms are in the following table. In other case, it will lead bugs in Micro-Manager. Additionally, the lag in live is proportional to greater exposure times.
