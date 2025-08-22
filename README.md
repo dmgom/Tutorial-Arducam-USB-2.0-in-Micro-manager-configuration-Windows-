@@ -1,17 +1,25 @@
 # Tutorial-to-set-up-an-Arducam-USB-2.0-in-Micro-manager-Tutorial
 Step by step to set up an Arducam with module USB 2.0 (UVC) in Micro-manager
 
-## Camera Set up
+## Camera Set up with AMCap
 1. Connect the Arducam in the computer.
 You have several options to control the camara, in this tutorial AMCap will be used, the idea is to disable automatic options and prevent bugs when Micro-Manager is being used. Also, it is highly recommended to visit Arducam page to understand the camera options, as well as to see the datasheet: https://docs.arducam.com/UVC-Camera/Appilcation-Note/Software-Instruction/UVC-Software-Instructions/
 
 <img width="950" height="328" alt="image" src="https://github.com/user-attachments/assets/f27fb253-0d86-4d58-b423-397775d83a17" />
 
-3. You can download AMCap in this link: https://www.arducam.com/downloads/app/AMCap.exe. Once it is downloaded open the .exe file.
+2. You can download AMCap in this link: https://www.arducam.com/downloads/app/AMCap.exe. Once it is downloaded open the .exe file.
 <img width="141" height="146" alt="image" src="https://github.com/user-attachments/assets/d1401f60-c77e-4b21-8973-7d6c96d7cd2d" />
 
-5. 
-6. 
+3. Once the app is opened, select the option 'Devices' and click in 'Arducam USB Camera'.
+<img width="1912" height="1007" alt="image" src="https://github.com/user-attachments/assets/fe72891a-dead-417f-a848-93d90b58564d" />
+
+4. Now, press 'Options' and select 'Video Capture Filter'
+<img width="1912" height="1002" alt="image" src="https://github.com/user-attachments/assets/ab479076-88dc-4895-82c8-edc60f869473" />
+
+5. In 'Video Proc Amp' uncheck 'White balance', and in 'Camera Control' uncheck exposure and 'Low Light compensation', click 'Apply' and then 'OK'
+<img width="536" height="432" alt="image" src="https://github.com/user-attachments/assets/24ca3242-327e-4674-9689-37ca6dd99268" />
+<img width="535" height="437" alt="image" src="https://github.com/user-attachments/assets/1a0cf04c-974d-40f4-9b4f-4bb77fa0f1d8" />
+
 ## Micro-Manager installation
 1. It is neccesary to download Version 2.0 from Micro-Manager web, it is strongly recommended to use a Nightly Build version: https://download.micro-manager.org/nightly/2.0/Windows/. Once it is downloaded, open the .exe file and do the installation tutorial. Note: if you have not ImageJ downloaded it can be installed in the tutorial.
 <img src="Images/fileexe.png" width="300">
