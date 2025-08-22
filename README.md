@@ -13,10 +13,12 @@ You have several options to control the camara, in this tutorial AMCap will be u
 3. Once the app is opened, select the option 'Devices' and click in 'Arducam USB Camera'.
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/fe72891a-dead-417f-a848-93d90b58564d" />
 
-4. Now, press 'Options' and select 'Video Capture Filter'
+
+4. Now, press 'Options' and select 'Video Capture Filter'.
+
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/ab479076-88dc-4895-82c8-edc60f869473" />
 
-5. In 'Video Proc Amp' uncheck 'White balance', and in 'Camera Control' uncheck exposure and 'Low Light compensation', click 'Apply' and then 'OK'
+6. In 'Video Proc Amp' uncheck 'White balance', and in 'Camera Control' uncheck exposure and 'Low Light compensation', click 'Apply' and then 'OK'
 <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/24ca3242-327e-4674-9689-37ca6dd99268" />
 <img width="295" height="250" alt="image" src="https://github.com/user-attachments/assets/1a0cf04c-974d-40f4-9b4f-4bb77fa0f1d8" />
 
