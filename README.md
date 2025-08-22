@@ -7,8 +7,7 @@ This tutorial was created during the developing of DiDeP (Dispositivo de Detecci
 Author of the tutorial is Diego Gomez, dm.gomeza1@uniandes.edu.co, under supervision of the professors Manu Forero, an.forero@uniandes.edu.co, and Chad Leidy, cleidy@uniandes.edu.co, Universidad de los Andes.
 
 ## Camera Set up with AMCap
-1. Connect the Arducam in the computer.
-You have several options to control the camara, in this tutorial AMCap will be used, the idea is to disable automatic options and prevent bugs when Micro-Manager is being used. Also, it is highly recommended to visit Arducam page to understand the camera options, as well as to see the datasheet: https://docs.arducam.com/UVC-Camera/Appilcation-Note/Software-Instruction/UVC-Software-Instructions/. Please, check the SDK of the camera model to comprehense better adjusts in camera.
+1. Plug in the Arducam to the computer using the USB cable. Although, there are software several options to control the camara, AMCap will be used in this tutorial, which allow to disable automatic options and prevent bugs when Micro-Manager is used. Also, it is highly recommended to visit Arducam page to understand the camera options, as well as to see the datasheet: https://docs.arducam.com/UVC-Camera/Appilcation-Note/Software-Instruction/UVC-Software-Instructions/. Please, check the SDK of the camera model to comprehense better adjusts in camera.
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/f27fb253-0d86-4d58-b423-397775d83a17" />
 
