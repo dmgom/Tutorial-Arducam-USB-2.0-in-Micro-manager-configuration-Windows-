@@ -65,7 +65,7 @@ Author of the tutorial is Diego Gomez, dm.gomeza1@uniandes.edu.co, under supervi
 17. This window will also be empty, just press 'Next'.
 <img width="500" height="850" alt="image" src="https://github.com/user-attachments/assets/f2f52bd3-da97-4e65-a2d0-fcca6db50ad2" />
 
-18. Now, choose where do you want to save the configuration file for later use, fill the file name, press 'Save' and therefore press 'Finish'.
+18. Now, choose where the configuration file will be saved for later use, do not forget fill the file name, press 'Save' and therefore press 'Finish'.
 <img width="500" height="856" alt="image" src="https://github.com/user-attachments/assets/8734f380-fb2c-4d02-95e9-f98c67da66a5" />
 
 19. Then, configuration was made and the main window will appear, now you can use live or snap to see the camera capturing.
