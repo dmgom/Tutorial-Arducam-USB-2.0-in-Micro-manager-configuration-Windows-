@@ -80,7 +80,10 @@ Now, it can be seen the image after press 'Auto Once':
   <img width="810" height="737" alt="image" src="https://github.com/user-attachments/assets/ce9081ab-d4e9-47ee-b0a6-e44e861e67d3" />
   
 # NOTE:
-Exposure parameters in Micro-Manager must be the same as AMCap, those are -13 to 0, whose respectively ms are in the following table. In other case, it will lead bugs in Micro-Manager. Additionally, the lag in live is proportional to greater exposure times.
+
+There are two ways to use the exposure parameters:
+1. Use same values of AMCap in Micro-Manager, those are -13 to 0, whose respectively ms are in the following table. In other case, it will lead bugs in Micro-Manager. Additionally, the lag in live is proportional to greater exposure times.
+2. Replace the dll file ''mmgr_dal_OpenCVgrabber.dll'' from Program Files/Micro-Manager-2.0 with the modified file from this GitHub found in ''mod_DLL'', which allows directly 'ms' converted values from the integers (-13 to 0) from AMCap.
 
 <img width="500" height="709" alt="image" src="https://github.com/user-attachments/assets/61cbeeed-6cc8-4fa0-8e22-7b455cbd5a0e" />
 
