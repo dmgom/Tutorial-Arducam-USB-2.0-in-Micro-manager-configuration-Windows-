@@ -1,0 +1,73 @@
+{
+  "numFrames": 4,
+  "intervalMs": 10000.0,
+  "displayTimeUnit": 1,
+  "useCustomIntervals": false,
+  "channels": [
+    {
+      "channelGroup": "LED_Control",
+      "config": "off",
+      "exposure": 0.0,
+      "zOffset": 0.0,
+      "doZStack": true,
+      "color": {
+        "value": -1,
+        "frgbvalue": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "fvalue": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "falpha": 1.0
+      },
+      "skipFactorFrame": 0,
+      "useChannel": true,
+      "camera": ""
+    },
+    {
+      "channelGroup": "LED_Control",
+      "config": "on",
+      "exposure": 1000.0,
+      "zOffset": 0.0,
+      "doZStack": true,
+      "color": {
+        "value": -2793984,
+        "falpha": 0.0
+      },
+      "skipFactorFrame": 0,
+      "useChannel": true,
+      "camera": ""
+    }
+  ],
+  "slices": [],
+  "relativeZSlice": true,
+  "slicesFirst": false,
+  "timeFirst": false,
+  "keepShutterOpenSlices": false,
+  "keepShutterOpenChannels": true,
+  "useAutofocus": false,
+  "skipAutofocusCount": 0,
+  "save": false,
+  "saveMode": "MULTIPAGE_TIFF",
+  "root": "",
+  "prefix": "",
+  "zReference": 0.0,
+  "comment": "",
+  "channelGroup": "LED_Control",
+  "usePositionList": false,
+  "cameraTimeout": 20000,
+  "shouldDisplayImages": true,
+  "useSlices": false,
+  "useFrames": true,
+  "useChannels": true,
+  "sliceZStepUm": 1.0,
+  "sliceZBottomUm": 0.0,
+  "sliceZTopUm": 0.0,
+  "acqOrderMode": 0,
+  "isTestAcquisition": false,
+  "version": 1.4
+}
