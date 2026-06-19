@@ -1,0 +1,18 @@
+import org.micromanager.data.Metadata;
+
+runnable = new Runnable() {
+   public void run() {
+      try {
+         // En lugar de updateProperty, intentamos solo leer el valor actual 
+         // que el hub ya tiene en memoria.
+         String val = mmc.getProperty("Arduino-Input", "AnalogInput0");
+         mm.scripter().message("Temp registrada: " + val);
+      } catch (Exception e) {
+         // No hacer nada si falla
+      }
+   }
+};
+
+mm.acquisitions().clearRunnables();
+// Registramos el script de forma que no bloquee
+mm.acquisitions().attachRunnable(-1, -1, -1, -1, runnable);
